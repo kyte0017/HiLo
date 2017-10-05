@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/haydenkyte/AndroidStudioProjects/HiLo-Final/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/haydenkyte/AndroidStudioProjects/HiLo-Final/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_734843b7dac5a271c38c4f008fa24929a55f3e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haydenkyte/AndroidStudioProjects/HiLo-Final/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f0baba157536013ecbe1904476060cea572e98c">
+        <dex dex="/Users/haydenkyte/AndroidStudioProjects/HiLo-Final/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f29eb3bd4b2e0ca0025e73c46cd1378ebceda92e/classes.dex" />
+    </item>
+
+</items>
